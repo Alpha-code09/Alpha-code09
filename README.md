@@ -1,76 +1,18 @@
-# Hi, I'm Aditya 👋
+# 💫 About Me:
+Hi, I'm Aditya 👋<br>🎓 B.Tech Computer Science (Pre-Final Year)<br>💻 Aspiring Software Development Engineer | ML & Backend Enthusiast<br><br>I enjoy building production-oriented machine learning systems and backend services, with a focus on clean architecture, scalability, and real-world applicability.<br><br>🔧 Technical Skills<br>Programming Languages<br><br>Python, C++, JavaScript, TypeScript<br>Machine Learning & Data Science<br><br>Supervised & Unsupervised Learning<br>CNNs, ANN, Tree-based Models<br>Feature Engineering, Model Evaluation<br>Scikit-learn, TensorFlow, NumPy, Pandas<br>Backend & APIs<br><br>FastAPI, RESTful APIs<br>Model serving & inference pipelines<br>Basic system design concepts<br>Frontend & Visualization<br><br>Streamlit, HTML, CSS, JavaScript<br>Tools & Platforms<br><br>Git & GitHub<br>Linux (basics)<br>VS Code<br>📌 Featured Projects<br>🌱 KrishiMitra – Smart Agriculture Support System<br>Tech Stack: Python, TensorFlow, FastAPI, Streamlit<br><br>Built deep learning models for plant disease detection (95% accuracy) and crop recommendation (90% accuracy).<br>Designed end-to-end ML pipelines including preprocessing, training, evaluation, and deployment.<br>Deployed models as FastAPI microservices enabling real-time inference.<br>Created an interactive dashboard for farmers and analysts.<br>🔗 Repository: https://github.com/Alpha-code09/KrishiMitra-Final<br><br>🏏 IPL Player Performance Prediction<br>Tech Stack: Python, Scikit-learn, XGBoost, Streamlit<br><br>Predicted next-season player performance using historical IPL data (2008–present).<br>Implemented and compared multiple ML models with advanced feature engineering.<br>Built a Streamlit-based analysis dashboard for role classification and model comparison.<br>📈 What I'm Currently Working On<br>Building backend-driven ML systems using FastAPI<br>Improving DSA problem-solving consistency (C++)<br>Learning better model deployment & system design<br>🎯 Career Interests<br>Software Development Engineering<br>Backend Engineering<br>Applied Machine Learning<br>📫 Connect With Me<br>GitHub: https://github.com/Alpha-code09<br>LinkedIn: (add your LinkedIn here)<br>
 
-🎓 B.Tech Computer Science (Pre-Final Year)  
-💻 Aspiring Software Development Engineer | ML & Backend Enthusiast  
 
-I enjoy building **production-oriented machine learning systems** and **backend services**, with a focus on clean architecture, scalability, and real-world applicability.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-rana-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasresh09@gmail.com) 
 
----
-
-## 🔧 Technical Skills
-
-**Programming Languages**
-- Python, C++, JavaScript, TypeScript
-
-**Machine Learning & Data Science**
-- Supervised & Unsupervised Learning
-- CNNs, ANN, Tree-based Models
-- Feature Engineering, Model Evaluation
-- Scikit-learn, TensorFlow, NumPy, Pandas
-
-**Backend & APIs**
-- FastAPI, RESTful APIs
-- Model serving & inference pipelines
-- Basic system design concepts
-
-**Frontend & Visualization**
-- Streamlit, HTML, CSS, JavaScript
-
-**Tools & Platforms**
-- Git & GitHub
-- Linux (basics)
-- VS Code
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alpha-code09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alpha-code09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-code09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Alpha-code09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-### 🌱 KrishiMitra – Smart Agriculture Support System
-**Tech Stack:** Python, TensorFlow, FastAPI, Streamlit  
-- Built deep learning models for **plant disease detection (95% accuracy)** and **crop recommendation (90% accuracy)**.
-- Designed end-to-end ML pipelines including preprocessing, training, evaluation, and deployment.
-- Deployed models as FastAPI microservices enabling real-time inference.
-- Created an interactive dashboard for farmers and analysts.
-
-🔗 Repository: https://github.com/Alpha-code09/KrishiMitra-Final
-
----
-
-### 🏏 IPL Player Performance Prediction
-**Tech Stack:** Python, Scikit-learn, XGBoost, Streamlit  
-- Predicted next-season player performance using historical IPL data (2008–present).
-- Implemented and compared multiple ML models with advanced feature engineering.
-- Built a Streamlit-based analysis dashboard for role classification and model comparison.
-
----
-
-## 📈 What I'm Currently Working On
-- Building **backend-driven ML systems** using FastAPI
-- Improving DSA problem-solving consistency (C++)
-- Learning better **model deployment & system design**
-
----
-
-## 🎯 Career Interests
-- Software Development Engineering
-- Backend Engineering
-- Applied Machine Learning
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/Alpha-code09
-- LinkedIn: *(add your LinkedIn here)*
-
----
-⭐ Feel free to explore my repositories and reach out for collaboration!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
